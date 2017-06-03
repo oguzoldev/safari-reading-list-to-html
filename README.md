@@ -54,4 +54,4 @@ Run ruby file,
 ```ruby
 $ ruby safari-readling-list-to-html.rb
 ```
-Check html file.
+Check the html file.
