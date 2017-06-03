@@ -4,8 +4,6 @@ Get Safari's Reading List with Ruby
 
 Getpocket or like apps need a html file for to import Safari's Reading List. I wrote code for to export my Safari Reading List on macOS. I leveraged Ruby, but this methodology could be easily ported to other languages like Bash, Python, or Objective C.
 
---
-
 ### First, make sure you have the plist gem:
 
 ```ruby
